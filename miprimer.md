@@ -12,7 +12,7 @@ Este es un párrafo de ejemplo donde algunas palabras están en **negrita**, otr
 
 3. Tercer elemento
 
-###Lista desordenada
+##Lista desordenada
 
 - Elemento A
 
@@ -20,12 +20,12 @@ Este es un párrafo de ejemplo donde algunas palabras están en **negrita**, otr
 
 - Elemento C
 
-###Enlaces
+##Enlaces
 
 [Google](https://www.google.com)
 [fichero](otrofichero.md)
 
-###Tablas
+##Tablas
 
 | Nombre | Edad | Ciudad    |
 | ------ | ---- | --------- |
@@ -33,11 +33,12 @@ Este es un párrafo de ejemplo donde algunas palabras están en **negrita**, otr
 | Ana    | 23   | Barcelona |
 | Juan   | 30   | Sevilla   |
 
-### Trozo de código
+## Trozo de código
 ```python
 # Este es un trozo de código en Python
 def saludo(nombre):
     return f"Hola, {nombre}!"
 print(saludo("Kevin"))
+
 
 
