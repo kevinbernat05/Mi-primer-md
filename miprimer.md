@@ -33,12 +33,16 @@ Este es un párrafo de ejemplo donde algunas palabras están en **negrita**, otr
 | Ana    | 23   | Barcelona |
 | Juan   | 30   | Sevilla   |
 
+### Imagen
+![Mi gato](/gato.jpg)
+
 ### Trozo de código
 ```python
 # Este es un trozo de código en Python
 def saludo(nombre):
     return f"Hola, {nombre}!"
 print(saludo("Kevin"))
+
 
 
 
