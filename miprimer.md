@@ -11,15 +11,11 @@ def saludo(nombre):
     return f"Hola, {nombre}!"
 print(saludo("Kevin"))
 
-#Lista ordenada
-
 1. Primer elemento
 
 2. Segundo elemento
 
 3. Tercer elemento
-
-# Lista desordenada
 
 - Elemento A
 
@@ -27,7 +23,6 @@ print(saludo("Kevin"))
 
 - Elemento C
 
-Enlaces
 [Google](https://www.google.com)
 [fichero](otrofichero.md)
 
@@ -36,3 +31,4 @@ Enlaces
 | Kevin  | 25   | Madrid    |
 | Ana    | 23   | Barcelona |
 | Juan   | 30   | Sevilla   |
+
